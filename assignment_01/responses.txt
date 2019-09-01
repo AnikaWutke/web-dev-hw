@@ -1,0 +1,17 @@
+Prompt 6:
+The Web is different than the internet.
+My favorite explaination is that the internet connects participants and the web connects information ie: documents via the internet.
+
+Prompt 7:
+The internet works because of a vast complex set of interconnected wires. 
+There is a physical connection, whether that be with fibers, satellite, or cellular network, that makes a web-like formation connecting
+continents and sending information all over the globe. This (in a simple sense) is how the internet works.
+
+Prompt 8:
+A directory is a file system that stores information such as files or other directories. 
+A directory is comprable to how many of us think of a "file" in that, as far as computing is concerned, it stores and organizes other 
+information in a specified manner.
+
+Prompt 9:
+A VCS is beneficial because it not only keeps track of the different versions of a project and how it differs, but it also allows for 
+easier sharing and collaboration and the ability to revert to previous versions if needed.
