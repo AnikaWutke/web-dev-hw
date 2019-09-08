@@ -2,12 +2,15 @@ My Answers
 6. Briefly describe one way how data travels on the internet.
 
     -Radio waves send and receive data (images, videos, words, etc.) through a binary code. This code is then converted to radio waves and sent to the device receiving the waves. The waves are then converted back to the binary code and displayed on that device.
+
 7. What is the relationship between an IP address and the DNS?
 
     -The DNS is an open system that associates domain names with a specific IP address. Computers use the DNS to look up those associations and direct the user to the correct destination.
+
 8. What is a cookie?
 
     -A cookie is a piece of information that acts like an ID card. It is “remembered” by a browser and is a way for a website to remember a user.
+
 9. List the three basic parts of a URL
 
     -Protocol, Domain, and Path
