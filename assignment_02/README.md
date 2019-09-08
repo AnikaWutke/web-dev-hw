@@ -10,4 +10,4 @@ I am taking this class in part because it is a requirement for the BFA. However,
 
 [Assignment 2 Responses](./responses.txt)
 
-![Assignment 2 Screenshot](./Images/A02_screenshot.png)
+![Assignment 2 Screenshot](./Images/A02_screenshot.png.png)
