@@ -1,0 +1,49 @@
+*{
+  background-color: dimgray;
+}
+h1{
+  color: white;
+  font-size: 32pt;
+  background-color: DEEPPINK;
+  text-align: center;
+}
+.fancy-rectangle{
+  background-color: DEEPPINK;
+  padding: 10px;
+  width: 50%;
+  position: absolute;
+  left: 350px;
+}
+.boring-rectangle{
+  position:absolute;
+  left: 300px;
+}
+.boring-rectangle-2{
+  position:absolute;
+  left: 780px;
+}
+.border-green{
+  border: 5px solid YELLOWGREEN;
+}
+/* I tried to make the deeppink in the heading more opaque, but I couldn't figure it out
+so I made the footer opaque instead even though I visually don't like it as much so I made it
+purposefully less noticible */
+.opacity{
+  opacity: .8;
+}
+#footer{
+  position:absolute;
+  top: 750px;
+}
+#header{
+  position:absolute;
+  top: 150px;
+}
+#flannel{
+  position: absolute;
+  top:325px;
+}
+#scrunchy{
+  position: absolute;
+  top:325px;
+}
