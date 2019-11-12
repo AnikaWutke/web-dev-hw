@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Julius+Sans+One&display=swap');
+body {
+  background-color: darkred;
+  font-family: 'Cormorant Garamond', serif;
+  line-height: 1em;
+  text-align:center;
+}
+.script {
+  background-color: OLDLACE;
+  border: 5px solid black;
+  padding: 20px;
+  text-align: center;
+  width: 70%;
+  position:absolute;
+  left: 12%;
+}
+pre {
+  color: black;
+  font-size: 1em;
+  line-height: 1em;
+  text-align:center;
+}
+pre::first-line {
+  color: darkred;
+  font-size: 1.25em;
+}
+.dialogue {
+  line-height: 1.5em;
+}
+h1 {
+  color: oldlace;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight:bolder;
+  font-size: 3em;
+}
+h2 {
+font-family: 'Julius Sans One', sans-serif;
+color: oldlace;
+}
+h3 {
+  font-family: 'Julius Sans One', sans-serif;
+  color: black;
+}
+a {
+  background-color: darkred;
+  color: black;
+  padding: 5px;
+  text-decoration: none;
+  border: 2px solid black
+}
+a:hover {
+  color: oldlace;
+  font-style:italic;
+}
+a:visited {
+  color:darkgray;
+}
+a:active {
+  background-color: black;
+  color: darkred;
+}

@@ -1,0 +1,13 @@
+1. What is the difference between a system font, web font, and web-safe font?
+
+  A system font is a font already installed on a local device/system. It is available specifically to that user and can be used in almost anything on the system itself, but usually cannot go directly to the web because of licensing.
+  A web font is a custom font hosted on a server. They do not necessarily have to be on the user's device in order to appear. These are optimized to performance on the web.
+  A web-safe font is a font that is considered "safe" for windows and mac users. Thus, client computers will already have that family and increase site performance.
+
+2. What is the importance of having fallback fonts or a font stack?
+
+  Having fallback fonts or a font stack ensures the right "look" of the site is carried out even if a client's computer cannot run the font a developer would prefer. If a fallback is not included and the browser cannot render or find the intended font, it will pick a different one that may not go well with the rest of the page.
+
+3. Free Response: Summarize your work cycle for this assignment.
+
+  I started off by finding my source material. I wanted something that would lend itself to structure and styling and my mind went immediately to a play. I love Julius Caesar and knew I wanted Antony's "let slip the dogs of war" speech but that was not long enough so I threw in some of the rest of the scene to bookend the monologue. I then did the reading from the website to familiarize myself with the material and went to the work along from there. I first put all my text into the index and then created my style so I could see what I was manipulating. I really liked this workflow of getting the source material down first, and messing with style second. I knew the structure of each piece of dialogue would be super important to maintain, so I ended up using the pre-formatted text tags rather than the paragraph tags in order to keep the lines correct without having to add a ton of line breaks. The heading font that I chose reminded me of a modern Greek style so I thought it lent itself to the title. I wanted something that looked like a cleaner version of a typewriter for the dialogue because it is readable and has a certain artistic quality that I enjoy. The color palette had to have a deep red because the play, and this scene in particular, has so much blood and I wanted to echo that with the color. I also wanted an off white for the dialogue because it reminded me of old parchment and I liked the contrast. I decided to use black as a main text color because of its readability and that added just the right darkness to the overall palette. 
