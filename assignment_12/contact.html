@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Assignment 12 Contact Page">
+<meta name="author" content="Anika Wutke">
+<title>Contact</title>
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+
+<body>
+  <nav id="navigation">
+
+  <div id="site-links">
+    <a href="./index.html" class="main-menu">Home</a>
+    <a href="./about.html" class="main-menu">About</a>
+    <a href="./contact.html" class="main-menu">Contact</a>
+
+    <div class="dropdown">
+      <a href="./services.html" class="main-menu" id="dropdown-group">Portfolio</a>
+      <div class="dropdown-content">
+        <a href="#" class="dropdown-item">Ceramic</a>
+        <a href="#" class="dropdown-item">Drawing</a>
+        <a href="#" class="dropdown-item">Painting</a>
+      </div>
+    </div>
+  </div>
+
+<div  id="social-links">
+    <a href="https://www.facebook.com" class="social-item">
+    <img src="./images/facebook.png" title="Connect with me on Facebook" author="freepik from www.flaticon.com" />
+  </a>
+    <a href="https://instagram.com" class="social-item">
+    <img src="./images/instagram.png" title="See me on Instagram" author="freepik from www.flaticon.com" />
+  </a>
+    <a href="https://twitter.com" class="social-item">
+    <img src="./images/twitter.png" title="Follow me on Twitter" />
+  </a>
+  </div>
+
+  </nav>
+
+
+<div class="page-titles" id="Home-title">
+    <div class="title-text">
+      <h1>Contact</h1>
+    </div>
+</div>
+
+<form action="https://example.com/registration.php"
+method="post">
+<br><br>
+Please type your first and last name:
+  <input type="text" name="firstname" maxlength="16" placeholder="Jane Doe">
+  <br><br>
+
+  <p>Select a topic for your inquiry</p>
+  <input type="radio" name="inquiry type" value="commission">Commission Request
+  <br>
+  <input type="radio" name="inquiry type" value="Guest speaker">Guest Speaker Request
+  <br>
+  <input type="radio" name="inquiry type" value="general info">General Information Request
+
+  <br><br>
+  Type your Message Below:
+  <br>
+  <textarea cols="35" rows="10">Start typing here...</textarea>
+  <br><br>
+  <input type="submit" name="submit" value="submit" class="submit-button" />
+</form>
+
+
+</body>
+</html>
