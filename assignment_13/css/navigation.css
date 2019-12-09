@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Work+Sans&display=swap');
+
+body {
+  background-color: #c696cb;
+}
+
+nav {
+  background-color: #48484a;
+  margin: 0;
+  padding: 0;
+  font-family: 'Work Sans', sans-serif;
+  position: fixed;
+  width: 100%;
+  font-size: 1.5em;
+}
+
+#site-links {
+  display: inline-block;
+  margin: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+#site-links .main-menu {
+  width: 6em;
+  padding: .5em 1em;
+  text-align: center;
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 0;
+}
+
+#site-links .main-menu:hover {
+  background-color: #818182;
+  text-decoration: underline;
+}
+
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+}
+
+#site-links .dropdown-content {
+  position: absolute;
+  z-index:3;
+  display: none;
+}
+
+#site-links .dropdown-content a {
+  color: #FFF;
+  text-decoration: none;
+  background-color: #818182;
+}
+
+#site-links .dropdown-content a:hover {
+  background-color: #702878;
+  text-decoration: underline;
+}
+
+#site-links .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+#site-links .dropdown-item {
+  width: 6em;
+  padding: .5em 1em;
+  text-align: center;
+  display: block;
+}
+
+#social-links {
+  padding: .5em;
+  display: inline-block;
+  float: right;
+}
+
+#social-links .social-item {
+  margin: 5px;
+}
+
+#social-links img {
+  width: 30px;
+  height: 30px;
+  opacity: .75;
+  margin-top: .5em;
+}
+
+#social-links img:hover {
+  opacity: 1;
+}
+#main-logo img {
+  width: 2.5em;
+  display: inline-block;
+  margin-top: .5em;
+  margin-left: .5em;
+}
