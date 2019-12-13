@@ -1,1 +1,118 @@
 @import url('https://fonts.googleapis.com/css?family=Bad+Script|Work+Sans&display=swap');
+.space {
+  background-color: #c696cb;
+  height: 5em;
+  width: 50%;
+  margin: 0;
+}
+.title-text {
+  color: black;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+p {
+  font-family: 'Work Sans', sans-serif;
+  text-size: 2.5em;
+}
+.title-text h1{
+  font-family: 'Bad Script', cursive;
+  font-size: 4em;
+}
+.image-container {
+  display: inline-block;
+  z-index:0;
+}
+.bw-images {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 2;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+
+.about-text{
+  font-family: 'Work Sans', sans-serif;
+  text-size: 2.5em;
+  background-color: white;
+  padding: 20px;
+  color: black;
+  display: block;
+  border: solid 5px #56b2d9;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profile-image {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profile-image img {
+  border: solid 5px #702878;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+form {
+  font-family: 'Work Sans', sans-serif;
+  text-size: 2.5em;
+  text-align: center;
+  color: black;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.submit-button {
+  font-family: 'Work Sans', sans-serif;
+  text-size: 2.5em;
+  padding: 10px;
+  background-color: #818182;
+  color: white;
+  border: solid 5px #702878;
+}
+.submit-button:hover {
+  background-color: #48484a;
+  border: solid 5px #56b2d9;
+}
+
+
+.featured-container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  background-color: #c696cb;
+}
+#portfolio-links {
+  display: inline-block;
+  padding: 30px;
+  background-color: #c696cb;
+  text-align: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#portfolio-links .link-item{
+  display: inline-block;
+  width: 8em;
+  padding: 30px;
+  background-color: #818182;
+  color: white;
+  border: solid 5px #702878;
+  font-family: 'Work Sans', sans-serif;
+  text-size: 4em;
+  text-decoration: none;
+}
+#portfolio-links .link-item:hover {
+  background-color: #48484a;
+  border: solid 5px #56b2d9;
+}
